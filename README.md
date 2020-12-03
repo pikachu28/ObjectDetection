@@ -1,7 +1,7 @@
 # ObjectDetection
 
 
-For Weights-->
+For YoloV3 Weights-->
 
 !wget https://pjreddie.com/media/files/yolov3.weights
 
