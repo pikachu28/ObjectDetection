@@ -24,3 +24,9 @@ Contains images result from yolov3 detection.
 ## On night vision:
 
 YoloV4 perform 10% better as it is detecting car as toyoto or mercedes, changing class name to car will help.
+
+## YoloV4
+
+car_brand_classifier_yolov4.py is used for testing 
+
+classifier.py is used for classify between different car brand.
