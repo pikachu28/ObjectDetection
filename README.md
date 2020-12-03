@@ -30,3 +30,5 @@ YoloV4 perform 10% better as it is detecting car as toyoto or mercedes, changing
 car_brand_classifier_yolov4.py is used for testing 
 
 classifier.py is used for classify between different car brand.
+
+#### Download YoloV4 weights and put it in yolov4 folders.
