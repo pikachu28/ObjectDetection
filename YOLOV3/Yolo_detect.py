@@ -5,6 +5,7 @@ Created on Sat Nov 28 18:18:54 2020
 
 @author: anjalisingh
 """
+# USE THIS FILE FOR Testing yoloV3 . Download YoloV3 weights and put that file in yolo-coco
 import numpy as np
 import argparse
 import time
